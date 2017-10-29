@@ -1,0 +1,9 @@
+Mail birthday card	Buy a 30th birthday card for John	28-10-2017
+Doctor's Appointment	See Dr. Smith at 123 Main Street. Bring paperwork	03-11-2017
+Finish design proposal for client	I promised Mike I'd email website mockups by Friday 5th November	05-11-2017
+Pickup Doug at the train station	Doug's arriving on October 29 on the 5:00 train	29-10-2017
+Pick up dry cleaning	The clothes should be ready by Wednesday	07-11-2017
+My new Todo Item	This is a new todo item	01-11-2017
+Allen Test	This is a test	07-11-2017
+MyShortTest	This is a short test demo	06-11-2017
+My Second Todo Item	This is my second todo item	11-11-2017
